@@ -29,3 +29,10 @@ sections:
       - ID: A5
         title: Step 5 - Get your code to production
         content: courses/example-course/05-fifth-step.md
+
+  - SectionID: S2
+    title: Section number2
+    steps:
+      - ID: A22
+        title: Step 1 - Setup Scala development environment
+        content: courses/example-course/01-first-step.md
