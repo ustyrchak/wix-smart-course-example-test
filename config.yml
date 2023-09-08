@@ -29,7 +29,7 @@ sections:
       - ID: A5
         title: Step 5 - Get your code to production
         content: courses/example-course/05-fifth-step.md
-  - SectionID: S1
+  - SectionID: S2
     title: Nothing To Prod
     steps:
       - ID: A1
