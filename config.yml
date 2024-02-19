@@ -1,4 +1,4 @@
-title: Scala test 600
+title: Scala test 700
 category: WIX
 sub-Category: Server Guild
 
@@ -28,6 +28,8 @@ sections:
       - ID: A4
         title: Step 4 - Get your code to master branch
         content: courses/example-course/04-fourth-step.md
+        startofstep: courses/example-course/04-fourth-step.md#horizontal-rules
+        endofstep: courses/example-course/04-fourth-step.md#blockquotes
       - ID: A5
         title: Step 5 - Get your code to production
         content: courses/example-course/05-fifth-step.md
