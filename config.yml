@@ -17,6 +17,8 @@ sections:
       - ID: A1
         title: Step 1 - Setup Scala development environment
         content: courses/example-course/01-first-step.md
+        startofstep: courses/example-course/01-first-step.md#abbreviations
+        endofstep: courses/example-course/01-first-step.md#custom-containers
       - ID: A2
         title: Step 2 - Clone repository jh
         content: courses/example-course/02-second-step.md
@@ -29,6 +31,8 @@ sections:
       - ID: A5
         title: Step 5 - Get your code to production
         content: courses/example-course/05-fifth-step.md
+        startofstep: courses/example-course/05-fifth-step.md#emphasis
+        endofstep: courses/example-course/05-fifth-step.md#blockquotes
   - SectionID: S2
     title: New name 2
     steps:
