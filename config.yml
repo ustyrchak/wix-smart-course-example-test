@@ -1,4 +1,4 @@
-title: Scala test 95
+title: Scala test 99
 category: WIX
 sub-Category: Server Guild
 
@@ -33,7 +33,7 @@ sections:
       - ID: A5
         title: Step 5 - Get your code to production
         content: courses/example-course/05-fifth-step.md
-        startofstep: courses/example-course/05-fifth-step.md#images
+        startofstep: courses/example-course/05-fifth-step.md#definition-lists
         endofstep: courses/example-course/05-fifth-step.
   - SectionID: S2
     title: New name 2
