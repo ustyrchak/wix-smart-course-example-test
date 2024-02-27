@@ -2,13 +2,13 @@
 Mermaid lets you create diagrams and visualizations using text and code.
 It is a JavaScript based diagramming and charting tool that renders Markdown-inspired text definitions to create and modify diagrams dynamically.
 
-'''mermaid
+```mermaid
 graph TD;
     A-->B;
     A-->C;
     B-->D;
     C-->D;
-'''
+```
 
 '''mermaid
 sequenceDiagram
