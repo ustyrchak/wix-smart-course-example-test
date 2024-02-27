@@ -10,7 +10,7 @@ graph TD;
     C-->D;
 ```
 
-'''mermaid
+```mermaid
 sequenceDiagram
     participant Alice
     participant Bob
@@ -22,9 +22,9 @@ sequenceDiagram
     John-->>Alice: Great!
     John->>Bob: How about you?
     Bob-->>John: Jolly good!
-'''
+```
 
-'''mermaid
+```mermaid
 gantt
 dateFormat  YYYY-MM-DD
 title Adding GANTT diagram to mermaid
@@ -35,9 +35,9 @@ Completed task            :done,    des1, 2014-01-06,2014-01-08
 Active task               :active,  des2, 2014-01-09, 3d
 Future task               :         des3, after des2, 5d
 Future task2               :         des4, after des3, 5d
-'''
+```
 
-'''mermaid
+```mermaid
 classDiagram
 Class01 <|-- AveryLongClass : Cool
 Class03 *-- Class04
@@ -52,9 +52,9 @@ Class01 : size()
 Class01 : int chimp
 Class01 : int gorilla
 Class08 <--> C2: Cool label
-'''
+```
 
-'''mermaid
+```mermaid
     gitGraph
        commit
        commit
@@ -65,16 +65,16 @@ Class08 <--> C2: Cool label
        checkout main
        commit
        commit
-'''
+```
 
-'''mermaid
+```mermaid
 erDiagram
     CUSTOMER ||--o{ ORDER : places
     ORDER ||--|{ LINE-ITEM : contains
     CUSTOMER }|..|{ DELIVERY-ADDRESS : uses
-'''
+```
 
-'''mermaid
+```mermaid
 journey
     title My working day
     section Go to work
@@ -84,4 +84,56 @@ journey
     section Go home
       Go downstairs: 5: Me
       Sit down: 5: Me
-'''
+```
+
+```mermaid
+quadrantChart
+    title Reach and engagement of campaigns
+    x-axis Low Reach --> High Reach
+    y-axis Low Engagement --> High Engagement
+    quadrant-1 We should expand
+    quadrant-2 Need to promote
+    quadrant-3 Re-evaluate
+    quadrant-4 May be improved
+    Campaign A: [0.3, 0.6]
+    Campaign B: [0.45, 0.23]
+    Campaign C: [0.57, 0.69]
+    Campaign D: [0.78, 0.34]
+    Campaign E: [0.40, 0.34]
+    Campaign F: [0.35, 0.78]
+```
+
+```mermaid
+xychart-beta
+    title "Sales Revenue"
+    x-axis [jan, feb, mar, apr, may, jun, jul, aug, sep, oct, nov, dec]
+    y-axis "Revenue (in $)" 4000 --> 11000
+    bar [5000, 6000, 7500, 8200, 9500, 10500, 11000, 10200, 9200, 8500, 7000, 6000]
+    line [5000, 6000, 7500, 8200, 9500, 10500, 11000, 10200, 9200, 8500, 7000, 6000]
+```
+
+```mermaid
+%%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px"}} }%%
+pie showData
+    title Key elements in Product X
+    "Calcium" : 42.96
+    "Potassium" : 50.05
+    "Magnesium" : 10.01
+    "Iron" :  5
+```
+
+```mermaid
+classDiagram
+classA <|-- classB : implements
+classC *-- classD : composition
+classE o-- classF : aggregation
+```
+
+```mermaid
+timeline
+    title History of Social Media Platform
+    2002 : LinkedIn
+    2004 : Facebook : Google
+    2005 : Youtube
+    2006 : Twitter
+```
