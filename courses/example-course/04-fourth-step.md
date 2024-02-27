@@ -255,8 +255,8 @@ It converts "HTML", but keep intact partial entries like "xxxHTMLyyy" and so on.
 
 ## Mermaid
 
-Code
-...
+
+```Mermaid
 sequenceDiagram
 
     Alice ->> Bob: Hello Bob, how are you?
@@ -267,3 +267,4 @@ sequenceDiagram
 
     Bob-->Alice: Checking with John...
     Alice->John: Yes... John, how are you?
+```
