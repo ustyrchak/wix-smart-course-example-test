@@ -46,8 +46,8 @@ sections:
         title: Step 1 - Setup Scala development environment
         content: courses/example-course/01-first-step.md
       - ID: A2
-        title: Step 2 - Clone repository jh
-        content: courses/example-course/02-second-step.md
+        title: Step 2 - 207 Type script
+        content: courses/example-course/207-typescript-2.md
       - ID: A3
         title: Step 3 - Generate Scala Nile project
         content: courses/example-course/03-third-step.md
