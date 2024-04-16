@@ -55,6 +55,6 @@ sections:
         title: Step 4 - Get your code to master branch
         content: courses/example-course/04-fourth-step.md
       - ID: A5
-        title: Step 5 - Get your code to production
+        title: Step 5 - Image
         content: courses/example-course/05-fifth-step.md
   
