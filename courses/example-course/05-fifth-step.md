@@ -10,8 +10,6 @@ You will like those projects!
 
 ![25](25.jpg)
 
-![test_testing_optical_265619.jpg](test_testing_optical_265619.jpg)
-
 ---
 
 # h1 Heading 8-)
@@ -42,6 +40,8 @@ test.. test... test..... test?..... test!....
 !!!!!! ???? ,,  -- ---
 
 "Smartypants, double quotes" and 'single quotes'
+
+![test_testing_optical_265619.jpg](test_testing_optical_265619.jpg)
 
 
 ## Emphasis
