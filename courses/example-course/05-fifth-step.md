@@ -8,7 +8,10 @@ __Advertisement :)__
 
 You will like those projects!
 
-![25](25.jpg)
+![25](/courses/example-course/25.jpg)
+
+
+
 
 ---
 
@@ -41,7 +44,9 @@ test.. test... test..... test?..... test!....
 
 "Smartypants, double quotes" and 'single quotes'
 
-![test_testing_optical_265619.jpg](test_testing_optical_265619.jpg)
+![test_testing_optical_265619.jpg](/courses/example-course/test_testing_optical_265619.jpg)
+
+
 
 
 ## Emphasis
