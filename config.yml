@@ -37,7 +37,7 @@ sections:
         content:  courses/example-course/Model_creation.md
       - ID: A7
         title: Step 7- Diagrams
-        content:  courses/example-course/Mermaid_diagrams.md
+        content:  courses/example-course/TTTT.md
   - SectionID: S2
     title: New name 2
     steps:
