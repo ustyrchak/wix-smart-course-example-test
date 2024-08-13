@@ -6,6 +6,8 @@
 override def getWishlistOwnerDetailed(request: GetWishlistOwnerDetailedRequest)(implicit callScope: CallScope): Future[GetWishlistOwnerDetailedResponse] = ???
 ```
 
+![Title](/courses/example-course/test_testing_optical_265619.jpg)
+
 </details>
 
 ### [Abbreviations](https://github.com/markdown-it/markdown-it-abbr)
