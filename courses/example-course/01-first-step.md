@@ -38,7 +38,7 @@ It converts "HTML", but keep intact partial entries like "xxxHTMLyyy" and so on.
 
 *[HTML]: Hyper Text Markup Language
 
-:point_right:   this is emoji
+:point_right:   this is emoji 
 :ok_hand:
 
 ### [Custom containers](https://github.com/markdown-it/markdown-it-container)
@@ -53,6 +53,15 @@ An experiment is a method of modifying a system's behavior based on context. In 
 - A/B Testing - comparing two versions against each other to determine which one performs better. A/B tests help PMs to collect data on user behavior before making decisions.
 
 In OneApp, we use Petri to conduct our experiments.
+
+:smiley:
+
+:smiley:
+
+:smiley:
+
+🥲
+# Projec
 
 ::: warning
 *here be dragons*
