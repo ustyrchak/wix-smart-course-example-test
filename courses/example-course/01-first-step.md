@@ -11,6 +11,7 @@ override def getWishlistOwnerDetailed(request: GetWishlistOwnerDetailedRequest)(
 :smiley:
 :smiley:
 :smiley:
+🥲
 # Project file structure
 👉 To use the ML platform, all models should be added to the ds-ml-models git repository as a dedicated project (sometimes referred to as a "_sub-project_" of the ds-ml-models repo.) directory which conforms to the following file structure:
 ```
