@@ -39,6 +39,7 @@ It converts "HTML", but keep intact partial entries like "xxxHTMLyyy" and so on.
 *[HTML]: Hyper Text Markup Language
 
 :point_right:   this is emoji
+:ok_hand:
 
 ### [Custom containers](https://github.com/markdown-it/markdown-it-container)
 
