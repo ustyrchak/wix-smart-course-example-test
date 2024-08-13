@@ -8,6 +8,10 @@ override def getWishlistOwnerDetailed(request: GetWishlistOwnerDetailedRequest)(
 
 ![Title](/courses/example-course/test_testing_optical_265619.jpg)
 
+:smiley:
+:smiley:
+:smiley:
+
 </details>
 
 ### [Abbreviations](https://github.com/markdown-it/markdown-it-abbr)
