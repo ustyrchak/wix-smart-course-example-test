@@ -2,6 +2,8 @@
 
 <summary><b>Scala</b></summary>
 
+:ok_hand:
+
 ```scala
 override def getWishlistOwnerDetailed(request: GetWishlistOwnerDetailedRequest)(implicit callScope: CallScope): Future[GetWishlistOwnerDetailedResponse] = ???
 ```
