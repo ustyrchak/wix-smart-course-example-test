@@ -8,6 +8,8 @@ tags:
 
 description:
   - content: courses/example-course/207-typescript-2.md
+    startofstep: courses/example-course/207-typescript-2.md#a-result-you-can-trust
+    endofstep: courses/example-course/207-typescript-2.md#where-to-start
 
 sections:
   - SectionID: S1
