@@ -37,7 +37,7 @@ sections:
       - ID: A6
         title: Step 6 - Model
         content:  courses/example-course/Model_creation.md
-  - SectionID: S1
+  - SectionID: S2
     title: New name 2
     steps:
       - ID: A1
