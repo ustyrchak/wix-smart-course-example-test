@@ -10,7 +10,7 @@ override def getWishlistOwnerDetailed(request: GetWishlistOwnerDetailedRequest)(
 
 ![Title](/courses/example-course/test_testing_optical_265619.jpg)
 
-<img src="/example-course/25.jpg" name="MY.jpg">
+<img src="/example-course/test_testing_optical_265619.jpg.jpg" name="My-my.jpg">
 
 :smiley:
 :smiley:
