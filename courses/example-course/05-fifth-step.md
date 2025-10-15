@@ -268,6 +268,8 @@ It converts "HTML", but keep intact partial entries like "xxxHTMLyyy" and so on.
 ---
 title: Example Git diagram
 ---
+
+```mermaid
 gitGraph
    commit
    commit
@@ -279,4 +281,6 @@ gitGraph
    merge develop
    commit
    commit
+
+```
 
