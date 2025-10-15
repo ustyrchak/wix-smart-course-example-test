@@ -55,4 +55,7 @@ sections:
       - ID: A5
         title: Step 5 - Image
         content: courses/example-course/05-fifth-step.md
+      - ID: A6
+        title: Step 5 - Image
+        content: courses/example-course/05-fifth-step.md
   
